@@ -1,5 +1,7 @@
-#Meu Portifólio
-Nome
-Email
+# Meu Portifólio
 
-@Todos os direitos reservados @2021.
+### Dados para contato
+##### Nome: Palloma
+##### Email:
+
+Todos os direitos reservados @2021.
