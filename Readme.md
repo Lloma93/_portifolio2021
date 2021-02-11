@@ -2,6 +2,6 @@
 
 ### Dados para contato
 ##### Nome: Palloma
-##### Email:
+##### Email: palloma@gmail.com
 
 Todos os direitos reservados @2021.
